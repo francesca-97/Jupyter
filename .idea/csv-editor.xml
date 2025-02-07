@@ -10,6 +10,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\consegne-vaccini.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\copertura-vaccinale.csv">
           <value>
             <Attribute>
